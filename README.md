@@ -27,10 +27,12 @@ Estudantes e profissionais interessados em análise de dados, redes sociais e co
 
 ```mermaid
 graph TD
-    A[Usuario] --> B[Sistema da Rede Social]
-    B --> C[Analise com Python e Pandas]
-    C --> D[Visualizacoes - Matplotlib e Seaborn]
-    D --> E[Relatorio de Engajamento]
+    A[Usuário] --> B[Sistema da Rede Social]
+    B --> C[Análise com Python e Pandas]
+    C --> D[Visualizações - Matplotlib e Seaborn]
+    D --> E[Relatório de Engajamento]
+
+
 
 
 
