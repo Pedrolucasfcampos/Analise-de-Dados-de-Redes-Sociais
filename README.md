@@ -31,3 +31,5 @@ graph TD
     B -->|Gera dados (CSV)| C[Análise com Python e Pandas]
     C -->|Gera insights| D[Visualizações - Matplotlib/Seaborn]
     D -->|Apresenta resultados| E[Relatório de Engajamento]
+
+
