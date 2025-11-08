@@ -6,7 +6,7 @@
 **Integrantes:**  
 - Pedro Lucas Freitas Campos (Matrícula: 2528499)  
 
-**Repositório GitHub:** [link_do_repositório_aqui]  
+**Repositório GitHub:** https://github.com/Pedrolucasfcampos/Analise-de-Dados-de-Redes-Sociais 
 **Data de Entrega:** 14/11/2025  
 
 ---
@@ -31,6 +31,7 @@ graph TD
     B --> C[Análise com Python e Pandas]
     C --> D[Visualizações - Matplotlib e Seaborn]
     D --> E[Relatório de Engajamento]
+
 
 
 
