@@ -30,8 +30,9 @@ Estudantes e profissionais interessados em análise de dados, redes sociais e co
 graph TD
     A[Usuário] --> B[Sistema da Rede Social]
     B --> C[Análise com Python e Pandas]
-    C --> D[Visualizações - Matplotlib e Seaborn]
+    C --> D[Visualizações - Matplotlib]
     D --> E[Relatório de Engajamento]
+
 
 
 
