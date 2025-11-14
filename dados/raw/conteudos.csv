@@ -1,0 +1,6 @@
+conteudo_id,autor_id,categoria,data_publicacao
+101,1,video,2025-10-01
+102,3,imagem,2025-10-05
+103,1,texto,2025-10-07
+104,2,anuncio,2025-10-09
+105,4,video,2025-10-11
