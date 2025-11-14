@@ -105,7 +105,7 @@ Analise-de-Dados-de-Redes-Sociais/
 ├── main.py                  # Ponto de entrada do pipeline
 ├── requirements.txt         # Dependências
 ├── README.md                # Documentação principal
-└── ESPECIFICACOES_PROJETO_FINA.pdf
+└── ESPECIFICACOES_PROJETO_FINAL.pdf
 ```
 > Artefatos gerados como `dados/processed/`, `relatorios/` e `visualizacoes/` são criados em tempo de execução e não ficam versionados.
 
